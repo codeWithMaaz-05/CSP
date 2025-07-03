@@ -156,7 +156,7 @@ const Landing = () => {
                   "SafeCommute has been a game-changer for our family. I can finally 
                   relax knowing my daughter is in safe hands."
                 </p>
-                <div className="font-semibold">Sarah Johnson</div>
+                <div className="font-semibold">Jeff Bezos</div>
                 <div className="text-sm text-gray-500">Parent of 2</div>
               </CardContent>
             </Card>
@@ -172,7 +172,7 @@ const Landing = () => {
                   "The real-time tracking feature gives me peace of mind. 
                   I always know where my son is during his commute."
                 </p>
-                <div className="font-semibold">Michael Chen</div>
+                <div className="font-semibold">Bill Gates</div>
                 <div className="text-sm text-gray-500">Working Parent</div>
               </CardContent>
             </Card>
@@ -188,7 +188,7 @@ const Landing = () => {
                   "As a driver, this platform has helped me connect with 
                   families in my community and provide a valuable service."
                 </p>
-                <div className="font-semibold">Priya Sharma</div>
+                <div className="font-semibold">Elon Musk</div>
                 <div className="text-sm text-gray-500">Verified Driver</div>
               </CardContent>
             </Card>
@@ -228,11 +228,11 @@ const Landing = () => {
           <div className="grid md:grid-cols-3 gap-8 text-center">
             <div>
               <h3 className="text-xl font-semibold mb-2">Email Support</h3>
-              <p className="text-gray-600">support@safecommute.com</p>
+              <p className="text-gray-600">cspteam3@gmail.com</p>
             </div>
             <div>
               <h3 className="text-xl font-semibold mb-2">Phone Support</h3>
-              <p className="text-gray-600">+1 (555) 123-4567</p>
+              <p className="text-gray-600">+918019122537</p>
             </div>
             <div>
               <h3 className="text-xl font-semibold mb-2">Live Chat</h3>
